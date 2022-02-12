@@ -30,4 +30,4 @@ st.table(df)
 4. The calculations and information presented here are based on the Turkish-German University's [Undergraduate Assessment and Evaluation Directive](http://3fcampus.tau.edu.tr/uploads/cms/oidb.tau/5690_9.pdf) document (Turkish).
 """
 
-st.write("This app was create by **Muhammed Şihebi**. Please get in touch with me via [LinkedIn](https://www.linkedin.com/in/mhd-sihebi/).")
+st.write("This app was created by **Muhammed Şihebi**. Please get in touch with me via [LinkedIn](https://www.linkedin.com/in/mhd-sihebi/).")
