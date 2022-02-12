@@ -5,4 +5,4 @@ This is a basic tool for estimating or calculating your letter grade using the r
 * Streamlit
 
 ### Running on the cloud 
-[App Link](https://asdf-vm.com/#/core-manage-asdf-vm?id=install)
+[App Link](https://share.streamlit.io/nour0700/relative_evaluation_calculator_with_streamlit/main/main.py)
