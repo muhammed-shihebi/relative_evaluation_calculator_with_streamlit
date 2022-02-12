@@ -24,10 +24,10 @@ st.table(df)
 
 ### Important Notes 
 
-1. Students with a score of less than 20 or equal to 100 should be excluded from the arithmetic mean calculation. 
+1. Students with a grade of less than 20 or equal to 100 should be excluded from the arithmetic mean calculation. 
 2. To apply this grading method, the number of students in the class must be larger than 20 and the standard deviation must be greater than 8. Otherwise, you should use the absolute (Mutlak) grading method.
 3. The tolerance level is set at 0 by default, but depending on your university or professor, it could be 0.1 or 0.2. 
-4. The calculations and information presented here are based on the Turkish-German University's [Undergraduate Assessment and Evaluation Directive](http://3fcampus.tau.edu.tr/uploads/cms/oidb.tau/5690_9.pdf) document.
+4. The calculations and information presented here are based on the Turkish-German University's [Undergraduate Assessment and Evaluation Directive](http://3fcampus.tau.edu.tr/uploads/cms/oidb.tau/5690_9.pdf) document (Turkish).
 """
 
 st.write("This app was create by **Muhammed Şihebi**. Please get in touch with me via [LinkedIn](https://www.linkedin.com/in/mhd-sihebi/).")
